@@ -15,17 +15,15 @@ It was understood that, due an exahustive analysis an academic dishonesty was de
 
  **This was the District previous any changes**
  
- ![districtsummarybefore](https://user-images.githubusercontent.com/88118587/138198377-4fe1601d-f62b-4edb-81b8-5179a8755ea8.PNG)
+![summary district original](https://user-images.githubusercontent.com/88118587/138211676-983c928e-665d-4cd7-b1e0-afba32e3debd.PNG)
  
 
 **After some changes**
 
-Since we are talking about the "District" we can see that the Overall Passing has decrease to 54% as well as other areas such as Math and Reading
- However if we are talking about about all the schools. is Charters + Districts/ 2 = 72% 
- so the new Overall passing would be 72%.
+![districtsummaryafter](https://user-images.githubusercontent.com/88118587/138211730-279c27ff-f495-44da-a1f5-897632b1d61b.PNG)
 
-![change in the district](https://user-images.githubusercontent.com/88118587/138202775-71654c9e-a281-4ff5-9d59-8611bff25891.PNG)
-
+Adding NaN to the 9th graden of Thomas High School. to the math and reading scores had little or no impact on the district analysis, (scores changed less than 0.5%). 
+There are 461 students in grade 9 at Thomas High School i will not make such big impact.
 
 ### How is the school summary affected?
 
